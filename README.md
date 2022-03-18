@@ -40,7 +40,7 @@ BibTeX entry:
 ```
 ```
 @ARTICLE{Xi_TNNLS_2022,
-  {Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Song, Rui and Xiao, Yuchao and Du, Qian and Chanussot, Jocelyn},
+  author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Song, Rui and Xiao, Yuchao and Du, Qian and Chanussot, Jocelyn},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification}, 
   year={2022},
