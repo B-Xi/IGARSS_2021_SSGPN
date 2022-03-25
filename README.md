@@ -28,7 +28,7 @@ Citation Details
 --
 BibTeX entry:
 ```
-@INPROCEEDINGS{Xi2021IGARSS,
+@INPROCEEDINGS{Xi_2021IGARSS_GPN,
   author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Du, Qian},
   booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS}, 
   title={Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classification}, 
@@ -39,7 +39,7 @@ BibTeX entry:
   doi={10.1109/IGARSS47720.2021.9553372}}
 ```
 ```
-@ARTICLE{Xi_TNNLS_2022,
+@ARTICLE{Xi_2022TNNLS_XGPN,
   author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Song, Rui and Xiao, Yuchao and Du, Qian and Chanussot, Jocelyn},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification}, 
@@ -50,7 +50,7 @@ BibTeX entry:
   doi={10.1109/TNNLS.2022.3158280}}
 ```
 ```
-@ARTICLE{Xi2020JSTARS,
+@ARTICLE{Xi_2020JSTARS_DPN,
   author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Song, Rui and Shi, Yanzi and Liu, Songlin and Du, Qian},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={Deep Prototypical Networks With Hybrid Residual Attention for Hyperspectral Image Classification}, 
