@@ -2,7 +2,7 @@ Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classificati
 ==
 [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html) and [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN).
 ***
-Code for paper: [Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classification.](https://ieeexplore.ieee.org/document/9553372) 
+Code for the paper: [Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classification.](https://ieeexplore.ieee.org/document/9553372) 
 <div align=center><img src="/figures/framework.jpg" width="80%" height="80%"></div>
 <div align=center>Fig. 1: The framework of our proposed SSGPN for HSI classification.</div>
 
